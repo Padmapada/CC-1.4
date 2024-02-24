@@ -1,1 +1,1 @@
-Print("Padmapada")
+print("Padmapada")
